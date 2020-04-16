@@ -6,5 +6,5 @@
 *backend.tf*
 *cache*
 set-env
-*account.json*
+*.json*
 .vscode/settings.json
