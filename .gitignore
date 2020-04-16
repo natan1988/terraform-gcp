@@ -1,0 +1,10 @@
+*tfvars*
+*.state*
+*.tfstate*
+*.terraform*
+*service-account.json
+*backend.tf*
+*cache*
+set-env
+*account.json*
+.vscode/settings.json
